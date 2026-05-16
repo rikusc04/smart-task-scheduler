@@ -1,6 +1,6 @@
 # Smart Task Scheduler
 
-A Java-based task scheduling system that uses the **Earliest Deadline First (EDF)** algorithm to prioritize and schedule tasks based on deadlines and priority. Includes AI-powered scheduling advice via the Claude API.
+A Java-based task scheduling system that uses the **Earliest Deadline First (EDF)** algorithm to prioritize and schedule tasks based on deadlines and priority. Includes AI-powered scheduling advice via the Claude API.  
 Video Link/Demo: https://youtu.be/5qGQ2tsZ8aM
 
 ## Features
